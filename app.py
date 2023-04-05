@@ -4,7 +4,7 @@ import os
 
 #files
 directory = os.getcwd()
-model_output_path = os.path.join(directory, "api/model-output")
+model_output_path = os.path.join(directory, "model-output")
 paintings_csv_name = 'WikiArtFull_colors.csv'
 movements_csv_name = 'WikiArtFull_Region_Mov_Year.csv'
 paintings_path = os.path.join(model_output_path, paintings_csv_name)
