@@ -63,7 +63,7 @@ def region():
     df_response.columns = ['region','count']
     response_len = len(df_response)
     region_palette= ['#a4d3e6','#f5e5c0','#9bc995','#f2b482','#b9887d']
-    df_response['fillColor'] = region_palette[0:region_palette]
+    df_response['fillColor'] = region_palette[0:response_len]
     try:
         if response_len == 0:
             return '', 204
