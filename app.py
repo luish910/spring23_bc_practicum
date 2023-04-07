@@ -12,6 +12,7 @@ movements_path = os.path.join(model_output_path, movements_csv_name)
 
 app = Flask(__name__)
 
+
 df_paintings = pd.read_csv(paintings_path)
 df_paintings.columns = ['id', 'year', 'year_group', 'artist', 'title', 'style', 'movement',
        'region', 'rating', 'sentiment', 'colorfulness',
@@ -19,17 +20,20 @@ df_paintings.columns = ['id', 'year', 'year_group', 'artist', 'title', 'style', 
 
 df_movements = pd.read_csv(movements_path)
 df_movements.columns =['region', 'movement', 'year', 'color1', 'color2', 'prop1', 'prop2']
-df_movements['region'].unique()
+df_movements['year_to'] = df_movements['year'].apply(lambda x : x+5)
+df_movements['y'] = df_movements[['year', 'year_to']].values.tolist()
+df_movements = df_movements.drop(['year_to'], axis=1)
 #['Americas', 'Europe', 'MiddleEast', 'AsiaOceania', 'Africa']
 
 @app.route("/movement")
 def movement():
     region = request.args.get('region')
-    year_from = request.args.get('year_from')
-    year_to = request.args.get('year_to')
-
-    year_from = int(year_from)
-    year_to = int(year_to)
+    year_from = request.args.get('year_from',type=int)
+    year_to = request.args.get('year_to',type=int)
+    if year_from == None:
+        year_from = 0
+    if year_to == None:
+        year_to = 3999
 
     cond_1 = df_movements['region'] == region
     cond_2 = df_movements['year'] >= year_from
@@ -50,19 +54,20 @@ def movement():
 
 @app.route("/region")
 def region():
-    year_from = request.args.get('year_from')
-    year_to = request.args.get('year_to')
-    year_from = int(year_from)
-    year_to = int(year_to)
-
+    year_from = request.args.get('year_from',type=int)
+    year_to = request.args.get('year_to',type=int)
+    if year_from == None:
+        year_from = 0
+    if year_to == None:
+        year_to = 3999
     cond_1 = df_paintings['year'] >= year_from
     cond_2 = df_paintings['year'] <= year_to
 
     df_response = df_paintings[(cond_1)&(cond_2)]
     df_response = pd.DataFrame(df_response['region'].value_counts().reset_index())
     df_response.columns = ['region','count']
-    response_len = len(df_response)
     region_palette= ['#a4d3e6','#f5e5c0','#9bc995','#f2b482','#b9887d']
+    response_len = len(df_response)
     df_response['fillColor'] = region_palette[0:response_len]
     try:
         if response_len == 0:
@@ -78,13 +83,10 @@ def region():
 @app.route("/paintings")
 def paintings():
     region = request.args.get('region')
-    year_from = request.args.get('year_from')
-    year_to = request.args.get('year_to')
+    year_from = request.args.get('year_from', type = int)
+    year_to = request.args.get('year_to', type = int)
     movement = request.args.get('movement')
     img_folder = request.args.get('img_folder')
-
-    year_from = int(year_from)
-    year_to = int(year_to)
     
     cond_1 = df_paintings['region'] == region
     cond_2 = df_paintings['year'] >= year_from
@@ -109,7 +111,6 @@ def raw_values():
     response = jsonify(df_paintings.to_dict(orient = "records"))
     return response
 
-
-@app.route("/")
+@app.route("/hello")
 def hello():
     return "Hello, World!"
