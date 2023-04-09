@@ -87,6 +87,22 @@ def paintings():
     year_to = request.args.get('year_to', type = int)
     movement = request.args.get('movement')
     img_folder = request.args.get('img_folder')
+
+    #make parameters optional
+    if year_from == None:
+        year_from = 0
+    if year_to == None:
+        year_to = 3999  
+    if region == None:
+        cond_1 = df_paintings['region'] == df_paintings['region'] 
+    else
+        cond_1 = df_paintings['region'] == region
+    if movement == None:
+        cond_4 = df_paintings['movement'] == df_paintings['movement'] 
+    else
+        cond_4 = df_paintings['movement'] == movement
+    if img_folder == None:
+        img_folder = 'images'   
     
     cond_1 = df_paintings['region'] == region
     cond_2 = df_paintings['year'] >= year_from
