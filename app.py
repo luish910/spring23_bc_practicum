@@ -95,11 +95,11 @@ def paintings():
         year_to = 3999  
     if region == None:
         cond_1 = df_paintings['region'] == df_paintings['region'] 
-    else
+    else:
         cond_1 = df_paintings['region'] == region
     if movement == None:
         cond_4 = df_paintings['movement'] == df_paintings['movement'] 
-    else
+    else:
         cond_4 = df_paintings['movement'] == movement
     if img_folder == None:
         img_folder = 'images'   
