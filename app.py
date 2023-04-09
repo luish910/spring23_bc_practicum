@@ -104,10 +104,8 @@ def paintings():
     if img_folder == None:
         img_folder = 'images'   
     
-    cond_1 = df_paintings['region'] == region
     cond_2 = df_paintings['year'] >= year_from
     cond_3 = df_paintings['year'] <= year_to
-    cond_4 = df_paintings['movement'] == movement
 
     df_response = df_paintings[(cond_1)&(cond_2)&(cond_3)&(cond_4)]
     df_response['img_path'] = img_folder+'/'+df_response['id']+'.jpg'
