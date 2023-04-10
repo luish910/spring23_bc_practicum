@@ -15,8 +15,9 @@ app = Flask(__name__)
 
 df_paintings = pd.read_csv(paintings_path)
 df_paintings.columns = ['id', 'year', 'year_group', 'artist', 'title', 'style', 'movement',
-       'region', 'rating', 'sentiment', 'colorfulness','url', 'color1', 'prop1']
-
+       'region', 'rating', 'sentiment', 'colorfulness','url', 'color1', 'prop1', 'color2', 'prop2']
+df_paintings['color2'] = df_paintings['color2'].fillna('')
+df_paintings['prop2'] = df_paintings['prop2'].fillna(0)
 df_movements = pd.read_csv(movements_path)
 df_movements.columns =['region', 'movement', 'year', 'color1', 'color2', 'prop1', 'prop2']
 df_movements['year_to'] = df_movements['year'].apply(lambda x : x+5)
