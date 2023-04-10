@@ -15,8 +15,7 @@ app = Flask(__name__)
 
 df_paintings = pd.read_csv(paintings_path)
 df_paintings.columns = ['id', 'year', 'year_group', 'artist', 'title', 'style', 'movement',
-       'region', 'rating', 'sentiment', 'colorfulness',
-       'url', 'color1', 'prop1']
+       'region', 'rating', 'sentiment', 'colorfulness','url', 'color1', 'prop1']
 
 df_movements = pd.read_csv(movements_path)
 df_movements.columns =['region', 'movement', 'year', 'color1', 'color2', 'prop1', 'prop2']
