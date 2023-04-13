@@ -1,0 +1,458 @@
+NatRegion,Cat2,Year_5,color1,color2,prop1,prop2
+Americas,Impressionism,1890,#6d5437,#8b744d,0.2133680800112692,0.20760670516974222
+Americas,Impressionism,1885,#6d5437,#4c3624,0.25287826610749314,0.2223964903906259
+Americas,Impressionism,1880,#c7c8c0,#4c3624,0.23665458182272783,0.19856648747760136
+Americas,Impressionism,1840,#c7c8c0,#8b744d,0.2732463295269168,0.19915715062533987
+Americas,Impressionism,1875,#6d5437,#8b744d,0.24269122947537045,0.2409891870244293
+Americas,Neo-Expressionism,1985,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1990,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1965,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1975,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1960,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1970,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1980,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1995,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1955,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,2000,#1f1b1f,,1.0,
+Americas,Neo-Expressionism,1950,#1f1b1f,,1.0,
+Americas,Expressionism,1910,#302b2c,,1.0,
+Americas,Expressionism,1905,#302b2c,,1.0,
+Americas,Expressionism,1915,#302b2c,,1.0,
+Americas,Cubism,1915,#847a5c,#423c3d,0.19457273720319657,0.17160460704087696
+Americas,Cubism,1925,#d6d0bd,#a69e98,0.2376780136587432,0.1737519191063582
+Americas,Cubism,1920,#221c1d,#a69e98,0.2936023360764534,0.2330767188744359
+Americas,Cubism,1910,#5c5f60,#a69e98,0.27367224297547504,0.19814844891992853
+Americas,Minimalism,1970,#1a1719,,1.0,
+Americas,Minimalism,1965,#1a1719,,1.0,
+Americas,Minimalism,1960,#1a1719,,1.0,
+Americas,Minimalism,1955,#1a1719,,1.0,
+Americas,Color Field Painting,1970,#1e1926,,1.0,
+Americas,Color Field Painting,1975,#1e1926,,1.0,
+Americas,Color Field Painting,1965,#1e1926,,1.0,
+Americas,Color Field Painting,1960,#1e1926,,1.0,
+Americas,Color Field Painting,1950,#1e1926,,1.0,
+Americas,Color Field Painting,1945,#1e1926,,1.0,
+Americas,Color Field Painting,1955,#1e1926,,1.0,
+Americas,Color Field Painting,1980,#1e1926,,1.0,
+Americas,Pop Art,1970,#262125,,1.0,
+Americas,Pop Art,1960,#262125,,1.0,
+Americas,Pop Art,1965,#262125,,1.0,
+Americas,Pop Art,1950,#262125,,1.0,
+Americas,Pop Art,1955,#262125,,1.0,
+Americas,Abstract Expressionism,1950,#1f1820,,1.0,
+Americas,Abstract Expressionism,1955,#1f1820,,1.0,
+Americas,Abstract Expressionism,1945,#1f1820,,1.0,
+Americas,Abstract Expressionism,1960,#1f1820,,1.0,
+Americas,Abstract Expressionism,1940,#1f1820,,1.0,
+Americas,Surrealism,1935,#131415,,1.0,
+Americas,Surrealism,1925,#131415,,1.0,
+Americas,Surrealism,1940,#131415,,1.0,
+Americas,Surrealism,1930,#131415,,1.0,
+Americas,Surrealism,1920,#131415,,1.0,
+Americas,Magic Realism,2005,#171416,,1.0,
+Americas,Magic Realism,2000,#171416,,1.0,
+Americas,Magic Realism,1990,#171416,,1.0,
+Americas,Magic Realism,1980,#171416,,1.0,
+Americas,Magic Realism,1995,#171416,,1.0,
+Americas,Magic Realism,1970,#171416,,1.0,
+Americas,Magic Realism,1985,#171416,,1.0,
+Americas,Magic Realism,1975,#171416,,1.0,
+Americas,Magic Realism,1940,#171416,,1.0,
+Americas,Magic Realism,1935,#171416,,1.0,
+Americas,Magic Realism,1945,#171416,,1.0,
+Americas,Magic Realism,1950,#171416,,1.0,
+Americas,Magic Realism,1965,#171416,,1.0,
+Americas,Magic Realism,1955,#171416,,1.0,
+Americas,Magic Realism,1930,#171416,,1.0,
+Americas,Abstract Art,1915,#221e1f,,1.0,
+Americas,Abstract Art,1930,#221e1f,,1.0,
+Americas,Abstract Art,1920,#221e1f,,1.0,
+Americas,Abstract Art,1925,#221e1f,,1.0,
+Americas,Abstract Art,1940,#221e1f,,1.0,
+Americas,Abstract Art,1935,#221e1f,,1.0,
+Americas,Abstract Art,1910,#221e1f,,1.0,
+Americas,Abstract Art,1945,#221e1f,,1.0,
+Americas,Abstract Art,1950,#221e1f,,1.0,
+Americas,Abstract Art,1955,#221e1f,,1.0,
+Americas,Rococo,1790,#201b18,,1.0,
+Americas,Rococo,1785,#201b18,,1.0,
+Americas,Rococo,1780,#201b18,,1.0,
+Americas,Rococo,1770,#201b18,,1.0,
+Americas,Rococo,1775,#201b18,,1.0,
+Americas,Rococo,1765,#201b18,,1.0,
+Americas,Lyrical Abstraction,1985,#a6442b,#686083,0.21584345160910057,0.2081574914534952
+Americas,Lyrical Abstraction,1975,#d4a741,#a6442b,0.23353457202586797,0.19430279585018465
+Americas,Lyrical Abstraction,1980,#d4a741,#dfd4b6,0.24039829302987198,0.2335184374658059
+Americas,Lyrical Abstraction,1970,#ad9b90,#686083,0.2836642764413233,0.159636848387687
+Americas,Lyrical Abstraction,1995,#ad9b90,#686083,0.3682595352915388,0.25712406839105656
+Americas,Lyrical Abstraction,1965,#a6442b,#363233,0.3956474610189277,0.1415825898440757
+Americas,Lyrical Abstraction,1990,#64804c,#363233,0.21136011382981426,0.15595700891836267
+Americas,Lyrical Abstraction,1960,#686083,#dfd4b6,0.37193310595225,0.2006271316976565
+Americas,Lyrical Abstraction,1955,#d4a741,#64804c,0.4974909674829386,0.1544560417503011
+Americas,Realism,1840,#1d1515,,1.0,
+Americas,Realism,1845,#1d1515,,1.0,
+Americas,Realism,1835,#1d1515,,1.0,
+Americas,Realism,1830,#1d1515,,1.0,
+Americas,Realism,1850,#1d1515,,1.0,
+Americas,Realism,1860,#1d1515,,1.0,
+Americas,Realism,1855,#1d1515,,1.0,
+Americas,Realism,1870,#1d1515,,1.0,
+Americas,Realism,1875,#1d1515,,1.0,
+Americas,Realism,1865,#1d1515,,1.0,
+Americas,Neoclassicism,1820,#5d4a36,#7f6a50,0.27888094236432476,0.25565839293226755
+Americas,Neoclassicism,1790,#1f1918,#412a1d,0.3239309375627384,0.24292310780967677
+Americas,Neoclassicism,1780,#e0c59e,#7f6a50,0.2274114774114774,0.18905168905168906
+Americas,Neoclassicism,1785,#5d4a36,#7f6a50,0.30529720986655884,0.2547513141932875
+Americas,Neoclassicism,1765,#412a1d,#1f1918,0.6606401896858328,0.13040901007705988
+Americas,Neoclassicism,1770,#412a1d,#5d4a36,0.35360068995256577,0.19634900100618083
+Americas,Neoclassicism,1775,#1f1918,#412a1d,0.39636449480642116,0.22603871576959395
+Americas,Neoclassicism,1815,#1f1918,#412a1d,0.4859063095596349,0.27455110843615205
+Americas,Neoclassicism,1920,#b2906d,#7f6a50,0.3128457901619555,0.195151393219998
+Americas,Romanticism,1785,#6e563c,#907a5d,0.30623456790123454,0.2623456790123457
+Americas,Romanticism,1800,#533b29,#2d2016,0.3146,0.2577
+Americas,Romanticism,1780,#2d2016,#533b29,0.25515568135867367,0.20231837174821404
+Americas,Romanticism,1830,#533b29,#6e563c,0.33254054054054055,0.2211891891891892
+Americas,Post-Impressionism,1905,#999ea9,#5a6371,0.4110363966271747,0.29021240260433345
+Americas,Post-Impressionism,1910,#5a6371,#999ea9,0.2841955013043264,0.24585322636215975
+Americas,Post-Impressionism,1915,#877854,#b3a16c,0.25885971137922875,0.21835817364561155
+Americas,Art Informel,1960,#5a514d,#806e63,0.302578954626948,0.277341056406013
+Americas,Art Informel,1965,#413027,#5a514d,0.23123123123123124,0.1902902902902903
+Europe,Post-Impressionism,1905,#4f443b,#7d6543,0.21569242086081367,0.1982763664936346
+Europe,Post-Impressionism,1895,#7d6543,#4f443b,0.24965821852981385,0.2416460721421811
+Europe,Post-Impressionism,1910,#7d6543,#4f443b,0.2187265404531631,0.17935833858461875
+Europe,Post-Impressionism,1915,#7d6543,#4f443b,0.21187048068040645,0.20363616092759532
+Europe,Post-Impressionism,1900,#4f443b,#cec5a8,0.1961288479394329,0.1893538216657994
+Europe,Post-Impressionism,1890,#4f443b,#7d6543,0.237617870412861,0.211949136233772
+Europe,Post-Impressionism,1885,#7d6543,#b09463,0.29741689252724157,0.2593063775651308
+Europe,Cubism,1920,#241e1e,,1.0,
+Europe,Cubism,1925,#241e1e,,1.0,
+Europe,Cubism,1910,#241e1e,,1.0,
+Europe,Cubism,1915,#241e1e,,1.0,
+Europe,Cubism,1900,#241e1e,,1.0,
+Europe,Cubism,1905,#241e1e,,1.0,
+Europe,Cubism,1930,#241e1e,,1.0,
+Europe,Romanticism,1830,#1b1717,,1.0,
+Europe,Romanticism,1815,#1b1717,,1.0,
+Europe,Romanticism,1805,#1b1717,,1.0,
+Europe,Romanticism,1810,#1b1717,,1.0,
+Europe,Romanticism,1820,#1b1717,,1.0,
+Europe,Romanticism,1800,#1b1717,,1.0,
+Europe,Romanticism,1785,#1b1717,,1.0,
+Europe,Romanticism,1825,#1b1717,,1.0,
+Europe,Romanticism,1775,#1b1717,,1.0,
+Europe,Romanticism,1770,#1b1717,,1.0,
+Europe,Romanticism,1790,#1b1717,,1.0,
+Europe,Romanticism,1780,#1b1717,,1.0,
+Europe,Romanticism,1795,#1b1717,,1.0,
+Europe,Romanticism,1760,#1b1717,,1.0,
+Europe,Romanticism,1765,#1b1717,,1.0,
+Europe,Realism,1865,#201b18,,1.0,
+Europe,Realism,1870,#201b18,,1.0,
+Europe,Realism,1855,#201b18,,1.0,
+Europe,Realism,1860,#201b18,,1.0,
+Europe,Realism,1850,#201b18,,1.0,
+Europe,Realism,1835,#201b18,,1.0,
+Europe,Realism,1830,#201b18,,1.0,
+Europe,Realism,1845,#201b18,,1.0,
+Europe,Realism,1825,#201b18,,1.0,
+Europe,Realism,1875,#201b18,,1.0,
+Europe,Realism,1840,#201b18,,1.0,
+Europe,Realism,1820,#201b18,,1.0,
+Europe,Realism,1815,#201b18,,1.0,
+Europe,Pop Art,1970,#292225,,1.0,
+Europe,Pop Art,1960,#292225,,1.0,
+Europe,Pop Art,1965,#292225,,1.0,
+Europe,Pop Art,1955,#292225,,1.0,
+Europe,Pop Art,1945,#292225,,1.0,
+Europe,Pop Art,1950,#292225,,1.0,
+Europe,Pop Art,1975,#292225,,1.0,
+Europe,Rococo,1780,#1a1614,,1.0,
+Europe,Rococo,1785,#1a1614,,1.0,
+Europe,Rococo,1770,#1a1614,,1.0,
+Europe,Rococo,1765,#1a1614,,1.0,
+Europe,Rococo,1750,#1a1614,,1.0,
+Europe,Rococo,1760,#1a1614,,1.0,
+Europe,Rococo,1755,#1a1614,,1.0,
+Europe,Rococo,1775,#1a1614,,1.0,
+Europe,Rococo,1790,#1a1614,,1.0,
+Europe,Rococo,1735,#1a1614,,1.0,
+Europe,Rococo,1745,#1a1614,,1.0,
+Europe,Rococo,1730,#1a1614,,1.0,
+Europe,Rococo,1725,#1a1614,,1.0,
+Europe,Rococo,1740,#1a1614,,1.0,
+Europe,Rococo,1715,#1a1614,,1.0,
+Europe,Rococo,1720,#1a1614,,1.0,
+Europe,Rococo,1710,#1a1614,,1.0,
+Europe,Color Field Painting,1975,#42394d,,1.0,
+Europe,Color Field Painting,1970,#42394d,,1.0,
+Europe,Color Field Painting,1965,#42394d,,1.0,
+Europe,Color Field Painting,1960,#42394d,,1.0,
+Europe,Color Field Painting,1980,#42394d,,1.0,
+Europe,Color Field Painting,1950,#42394d,,1.0,
+Europe,Color Field Painting,1955,#42394d,,1.0,
+Europe,Surrealism,1930,#1f1b1b,,1.0,
+Europe,Surrealism,1940,#1f1b1b,,1.0,
+Europe,Surrealism,1935,#1f1b1b,,1.0,
+Europe,Surrealism,1925,#1f1b1b,,1.0,
+Europe,Surrealism,1920,#1f1b1b,,1.0,
+Europe,Abstract Art,1915,#1e1b1c,,1.0,
+Europe,Abstract Art,1920,#1e1b1c,,1.0,
+Europe,Abstract Art,1925,#1e1b1c,,1.0,
+Europe,Abstract Art,1950,#1e1b1c,,1.0,
+Europe,Abstract Art,1935,#1e1b1c,,1.0,
+Europe,Abstract Art,1945,#1e1b1c,,1.0,
+Europe,Abstract Art,1940,#1e1b1c,,1.0,
+Europe,Abstract Art,1960,#1e1b1c,,1.0,
+Europe,Abstract Art,1955,#1e1b1c,,1.0,
+Europe,Abstract Art,1930,#1e1b1c,,1.0,
+Europe,Abstract Art,1885,#1e1b1c,,1.0,
+Europe,Abstract Art,1905,#1e1b1c,,1.0,
+Europe,Abstract Art,1910,#1e1b1c,,1.0,
+Europe,Early Renaissance,1435,#241d19,,1.0,
+Europe,Early Renaissance,1445,#241d19,,1.0,
+Europe,Early Renaissance,1450,#241d19,,1.0,
+Europe,Early Renaissance,1480,#241d19,,1.0,
+Europe,Early Renaissance,1490,#241d19,,1.0,
+Europe,Early Renaissance,1475,#241d19,,1.0,
+Europe,Early Renaissance,1505,#241d19,,1.0,
+Europe,Early Renaissance,1525,#241d19,,1.0,
+Europe,Early Renaissance,1460,#241d19,,1.0,
+Europe,Early Renaissance,1465,#241d19,,1.0,
+Europe,Early Renaissance,1430,#241d19,,1.0,
+Europe,Early Renaissance,1455,#241d19,,1.0,
+Europe,Early Renaissance,1470,#241d19,,1.0,
+Europe,Early Renaissance,1440,#241d19,,1.0,
+Europe,Early Renaissance,1425,#241d19,,1.0,
+Europe,Early Renaissance,1420,#241d19,,1.0,
+Europe,Early Renaissance,1485,#241d19,,1.0,
+Europe,Early Renaissance,1500,#241d19,,1.0,
+Europe,Early Renaissance,1495,#241d19,,1.0,
+Europe,Neoclassicism,1805,#191615,,1.0,
+Europe,Neoclassicism,1800,#191615,,1.0,
+Europe,Neoclassicism,1795,#191615,,1.0,
+Europe,Neoclassicism,1790,#191615,,1.0,
+Europe,Neoclassicism,1810,#191615,,1.0,
+Europe,Neoclassicism,1785,#191615,,1.0,
+Europe,Neoclassicism,1835,#191615,,1.0,
+Europe,Neoclassicism,1865,#191615,,1.0,
+Europe,Neoclassicism,1780,#191615,,1.0,
+Europe,Neoclassicism,1935,#191615,,1.0,
+Europe,Neoclassicism,1875,#191615,,1.0,
+Europe,Neoclassicism,1930,#191615,,1.0,
+Europe,Neoclassicism,1925,#191615,,1.0,
+Europe,Neoclassicism,1915,#191615,,1.0,
+Europe,Neoclassicism,1920,#191615,,1.0,
+Europe,Neoclassicism,1895,#191615,,1.0,
+Europe,Neoclassicism,1905,#191615,,1.0,
+Europe,Neoclassicism,1900,#191615,,1.0,
+Europe,Neoclassicism,1820,#191615,,1.0,
+Europe,Neoclassicism,1770,#191615,,1.0,
+Europe,Neoclassicism,1775,#191615,,1.0,
+Europe,Neoclassicism,1815,#191615,,1.0,
+Europe,Neoclassicism,1825,#191615,,1.0,
+Europe,Neoclassicism,1765,#191615,,1.0,
+Europe,Neoclassicism,1760,#191615,,1.0,
+Europe,Neoclassicism,1850,#191615,,1.0,
+Europe,Neoclassicism,1830,#191615,,1.0,
+Europe,Neoclassicism,1880,#191615,,1.0,
+Europe,Neoclassicism,1940,#191615,,1.0,
+Europe,Neoclassicism,1845,#191615,,1.0,
+Europe,Neoclassicism,1855,#191615,,1.0,
+Europe,Neoclassicism,1755,#191615,,1.0,
+Europe,Neoclassicism,1750,#191615,,1.0,
+Europe,Neoclassicism,1860,#191615,,1.0,
+Europe,Art Informel,1960,#201b1b,,1.0,
+Europe,Art Informel,1945,#201b1b,,1.0,
+Europe,Art Informel,1955,#201b1b,,1.0,
+Europe,Art Informel,1950,#201b1b,,1.0,
+Europe,Art Informel,1965,#201b1b,,1.0,
+Europe,Expressionism,1905,#251e1d,,1.0,
+Europe,Expressionism,1895,#251e1d,,1.0,
+Europe,Expressionism,1910,#251e1d,,1.0,
+Europe,Expressionism,1900,#251e1d,,1.0,
+Europe,Expressionism,1915,#251e1d,,1.0,
+Europe,Expressionism,1890,#251e1d,,1.0,
+Europe,Minimalism,1955,#222120,,1.0,
+Europe,Minimalism,1960,#222120,,1.0,
+Europe,Minimalism,1965,#222120,,1.0,
+Europe,Minimalism,1970,#222120,,1.0,
+Europe,Baroque,1620,#181212,,1.0,
+Europe,Baroque,1615,#181212,,1.0,
+Europe,Baroque,1625,#181212,,1.0,
+Europe,Baroque,1635,#181212,,1.0,
+Europe,Baroque,1640,#181212,,1.0,
+Europe,Baroque,1630,#181212,,1.0,
+Europe,Baroque,1610,#181212,,1.0,
+Europe,Baroque,1605,#181212,,1.0,
+Europe,Baroque,1600,#181212,,1.0,
+Europe,Baroque,1580,#181212,,1.0,
+Europe,Baroque,1595,#181212,,1.0,
+Europe,Baroque,1590,#181212,,1.0,
+Europe,Baroque,1585,#181212,,1.0,
+Europe,Impressionism,1865,#241b19,,1.0,
+Europe,Impressionism,1870,#241b19,,1.0,
+Europe,Impressionism,1885,#241b19,,1.0,
+Europe,Impressionism,1880,#241b19,,1.0,
+Europe,Impressionism,1890,#241b19,,1.0,
+Europe,Impressionism,1875,#241b19,,1.0,
+Europe,Impressionism,1860,#241b19,,1.0,
+Europe,Neo-Expressionism,1975,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1985,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,2000,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1970,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1980,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1995,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1965,#1f1b1f,,1.0,
+Europe,Neo-Expressionism,1990,#1f1b1f,,1.0,
+Europe,Lyrical Abstraction,1955,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1960,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1970,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1985,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1980,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1975,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1950,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1965,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1990,#1f1e24,,1.0,
+Europe,Lyrical Abstraction,1945,#1f1e24,,1.0,
+Europe,High Renaissance,1495,#191412,,1.0,
+Europe,High Renaissance,1505,#191412,,1.0,
+Europe,High Renaissance,1520,#191412,,1.0,
+Europe,High Renaissance,1510,#191412,,1.0,
+Europe,High Renaissance,1500,#191412,,1.0,
+Europe,High Renaissance,1490,#191412,,1.0,
+Europe,High Renaissance,1540,#191412,,1.0,
+Europe,High Renaissance,1515,#191412,,1.0,
+Europe,High Renaissance,1485,#191412,,1.0,
+Europe,High Renaissance,1545,#191412,,1.0,
+Europe,High Renaissance,1535,#191412,,1.0,
+Europe,High Renaissance,1525,#191412,,1.0,
+Europe,High Renaissance,1530,#191412,,1.0,
+Europe,Magic Realism,1950,#1d191a,,1.0,
+Europe,Magic Realism,1930,#1d191a,,1.0,
+Europe,Magic Realism,1925,#1d191a,,1.0,
+Europe,Magic Realism,2005,#1d191a,,1.0,
+Europe,Magic Realism,1995,#1d191a,,1.0,
+Europe,Magic Realism,1910,#1d191a,,1.0,
+Europe,Magic Realism,1915,#1d191a,,1.0,
+Europe,Magic Realism,1945,#1d191a,,1.0,
+Europe,Magic Realism,1960,#1d191a,,1.0,
+Europe,Magic Realism,1935,#1d191a,,1.0,
+Europe,Magic Realism,1940,#1d191a,,1.0,
+Europe,Magic Realism,1980,#1d191a,,1.0,
+Europe,Magic Realism,2000,#1d191a,,1.0,
+Europe,Magic Realism,1990,#1d191a,,1.0,
+Europe,Magic Realism,1965,#1d191a,,1.0,
+Europe,Magic Realism,2010,#1d191a,,1.0,
+Europe,Magic Realism,1920,#1d191a,,1.0,
+Europe,Magic Realism,1955,#1d191a,,1.0,
+Europe,Northern Renaissance,1480,#1d1715,,1.0,
+Europe,Northern Renaissance,1470,#1d1715,,1.0,
+Europe,Northern Renaissance,1575,#1d1715,,1.0,
+Europe,Northern Renaissance,1570,#1d1715,,1.0,
+Europe,Northern Renaissance,1590,#1d1715,,1.0,
+Europe,Northern Renaissance,1585,#1d1715,,1.0,
+Europe,Northern Renaissance,1580,#1d1715,,1.0,
+Europe,Northern Renaissance,1560,#1d1715,,1.0,
+Europe,Northern Renaissance,1565,#1d1715,,1.0,
+Europe,Northern Renaissance,1525,#1d1715,,1.0,
+Europe,Northern Renaissance,1530,#1d1715,,1.0,
+Europe,Northern Renaissance,1520,#1d1715,,1.0,
+Europe,Northern Renaissance,1515,#1d1715,,1.0,
+Europe,Northern Renaissance,1510,#1d1715,,1.0,
+Europe,Northern Renaissance,1460,#1d1715,,1.0,
+Europe,Northern Renaissance,1450,#1d1715,,1.0,
+Europe,Northern Renaissance,1445,#1d1715,,1.0,
+Europe,Northern Renaissance,1500,#1d1715,,1.0,
+Europe,Northern Renaissance,1505,#1d1715,,1.0,
+Europe,Northern Renaissance,1485,#1d1715,,1.0,
+Europe,Northern Renaissance,1435,#1d1715,,1.0,
+Europe,Northern Renaissance,1430,#1d1715,,1.0,
+Europe,Northern Renaissance,1440,#1d1715,,1.0,
+Europe,Northern Renaissance,1465,#1d1715,,1.0,
+Europe,Northern Renaissance,1550,#1d1715,,1.0,
+Europe,Northern Renaissance,1490,#1d1715,,1.0,
+Europe,Northern Renaissance,1475,#1d1715,,1.0,
+Europe,Northern Renaissance,1495,#1d1715,,1.0,
+Europe,Northern Renaissance,1535,#1d1715,,1.0,
+Europe,Northern Renaissance,1555,#1d1715,,1.0,
+Europe,Northern Renaissance,1540,#1d1715,,1.0,
+Europe,Northern Renaissance,1415,#1d1715,,1.0,
+Europe,Northern Renaissance,1425,#1d1715,,1.0,
+Europe,Northern Renaissance,1605,#1d1715,,1.0,
+Europe,Northern Renaissance,1545,#1d1715,,1.0,
+Europe,Northern Renaissance,1625,#1d1715,,1.0,
+Europe,Northern Renaissance,1610,#1d1715,,1.0,
+Europe,Northern Renaissance,1600,#1d1715,,1.0,
+Europe,Abstract Expressionism,1955,#212023,,1.0,
+Europe,Abstract Expressionism,1960,#212023,,1.0,
+Europe,Abstract Expressionism,1950,#212023,,1.0,
+Europe,Abstract Expressionism,1945,#212023,,1.0,
+Europe,Abstract Expressionism,1855,#212023,,1.0,
+Europe,Abstract Expressionism,1875,#212023,,1.0,
+Europe,Abstract Expressionism,1865,#212023,,1.0,
+Europe,Abstract Expressionism,1940,#212023,,1.0,
+MiddleEast,Impressionism,1890,#1b1a17,,1.0,
+MiddleEast,Art Informel,1960,#2d2c2e,#84857d,0.18439036086800145,0.17863565519721855
+MiddleEast,Minimalism,1965,#ded6cb,#b1a595,0.30448734537549815,0.17046219139796076
+MiddleEast,Abstract Art,1940,#47382c,#a24833,0.17485518129156832,0.17362154044196523
+MiddleEast,Abstract Art,1925,#47382c,#5a5756,0.32473783737321643,0.18308406395048996
+MiddleEast,Abstract Art,1935,#d5ccc0,#918572,0.4100043600618336,0.17678068888976972
+MiddleEast,Abstract Art,1920,#5a5756,#47382c,0.26774793937782504,0.22876894442967297
+MiddleEast,Abstract Art,1950,#47382c,#a24833,0.23163105784262636,0.20630536737884314
+MiddleEast,Abstract Art,1955,#47382c,#251a19,0.27538551838215675,0.2551357985166213
+MiddleEast,Abstract Art,1930,#47382c,#5a5756,0.3564454331973798,0.3379063156593746
+MiddleEast,Abstract Art,1915,#918572,#5a5756,0.2794981737335239,0.2442432904557726
+MiddleEast,Cubism,1920,#bdc0a4,#3d312a,0.26800944757905787,0.20747495954161746
+MiddleEast,Cubism,1925,#3d312a,#1b1817,0.19953894815847317,0.1994674672528101
+MiddleEast,Post-Impressionism,1910,#ada28a,#928673,0.21724796763196344,0.18986251077061403
+MiddleEast,Post-Impressionism,1915,#928673,#ada28a,0.28372482218636064,0.23549100472177395
+MiddleEast,Post-Impressionism,1895,#7c6653,#5c4a3c,0.36757008258694895,0.320227986506921
+MiddleEast,Abstract Expressionism,1955,#d0b38d,#a2846b,0.3854833790789875,0.18796381010470672
+MiddleEast,Abstract Expressionism,1960,#d0ceca,#b0a8a2,0.45492142266335817,0.24141852770885028
+MiddleEast,Surrealism,1935,#524634,#756443,0.16791671789827453,0.1625886306815853
+MiddleEast,Surrealism,1940,#c2ab7f,#9c8862,0.3424143556280587,0.2567699836867863
+MiddleEast,Surrealism,1930,#9c8862,#756443,0.32453245324532454,0.31033103310331034
+MiddleEast,Expressionism,1915,#aca28e,#383032,0.32780770824699546,0.24243680066307502
+MiddleEast,Expressionism,1910,#5b514b,#d1ab52,0.21651582498795052,0.16167728806297862
+MiddleEast,Neo-Expressionism,1965,#161620,#3d3740,0.4034843950406157,0.20243693886276187
+MiddleEast,Neo-Expressionism,1970,#e36634,#d8c9c3,0.3325820991629105,0.2396973599484868
+MiddleEast,Magic Realism,2010,#8d929a,#7c7f7e,0.26534859521331944,0.18135870373123233
+AsiaOceania,Neo-Expressionism,2000,#412f34,#684d48,0.23186590312574565,0.21581961345740874
+AsiaOceania,Neo-Expressionism,1995,#a8a49b,#d1cec6,0.30416191562143674,0.27223489167616877
+AsiaOceania,Neo-Expressionism,1965,#1f161e,#a8a49b,0.6061434883231643,0.12781401220281927
+AsiaOceania,Minimalism,1970,#d7d6ce,#6b6561,0.5028168058100863,0.3757890450010181
+AsiaOceania,Minimalism,1965,#d3302c,#151318,0.5829203720046161,0.3781820650329238
+AsiaOceania,Lyrical Abstraction,1975,#912e1f,#a97445,0.22562504749601034,0.19028801580667223
+AsiaOceania,Lyrical Abstraction,1970,#d8cebe,#2a1b1d,0.24696399785061796,0.195889306824288
+AsiaOceania,Lyrical Abstraction,1980,#4d5870,#2a1b1d,0.6336038255325315,0.25018113316910595
+AsiaOceania,Lyrical Abstraction,1965,#912e1f,#2a1b1d,0.7043092138459985,0.13583610858815218
+AsiaOceania,Lyrical Abstraction,1960,#2a1b1d,#d8cebe,0.6269435249272746,0.1251880830574782
+AsiaOceania,Impressionism,1885,#3d3121,#67543a,0.21559595463292797,0.1962289645006756
+AsiaOceania,Impressionism,1890,#b5a381,#927a56,0.3033602986932172,0.25211574362165523
+AsiaOceania,Abstract Expressionism,1955,#a1a482,#a7764b,0.33182643449864135,0.17583194219357354
+AsiaOceania,Abstract Expressionism,1950,#2a7780,#a1a482,0.4404440755343432,0.26385142145673374
+AsiaOceania,Abstract Expressionism,1875,#cbc8a9,#a1a482,0.576745487617182,0.28781306842031623
+AsiaOceania,Color Field Painting,1970,#fabb97,#efa476,0.2577839624282484,0.2576100191337624
+AsiaOceania,Magic Realism,2005,#8a8b92,#a9a5a8,0.30312276222796475,0.2864659547308447
+AsiaOceania,Magic Realism,1995,#16191b,#3f393b,0.42838882852943055,0.1548539656164121
+AsiaOceania,Magic Realism,1965,#65676a,#a9a5a8,0.43680387409200966,0.3181598062953995
+AsiaOceania,Art Informel,1955,#606168,#cac8ca,0.32003739893070665,0.2102241302114883
+AsiaOceania,Art Informel,1965,#cac8ca,#363432,0.4901051036833633,0.21257456680238615
+AsiaOceania,Art Informel,1960,#999387,#606168,0.39042547691671403,0.27570697409915734
+AsiaOceania,Pop Art,1965,#a7948d,#9a413f,0.19830014330187282,0.16099224193309286
+AsiaOceania,Pop Art,1960,#a7948d,#9a413f,0.5163025210084033,0.28605042016806725
+AsiaOceania,Cubism,1925,#556068,#6a7b8e,0.1850474106491612,0.175127644055434
+AsiaOceania,Surrealism,1940,#d4d2be,#696553,0.40191107644305774,0.22391770670826833
+AsiaOceania,Abstract Art,1960,#9a9faa,#a2a7ac,0.2585227272727273,0.23636363636363636
+Africa,Neo-Expressionism,1960,#c6bd9d,#97805f,0.8080273459036278,0.12449002095049068
+Africa,Neo-Expressionism,1985,#c6bd9d,#97805f,0.4650761421319797,0.3410152284263959
+Africa,Neo-Expressionism,1995,#58574f,#bc4a25,0.3157625383828045,0.214431934493347
+Africa,Neo-Expressionism,1965,#241921,#58574f,0.8716280545858458,0.12012059663598858
+Africa,Lyrical Abstraction,1965,#4d575a,#2b2c21,0.28924221921515564,0.21549391069012178
+Africa,Lyrical Abstraction,1960,#a29981,#7e764e,0.46014215418261345,0.36610169491525424
+Africa,Lyrical Abstraction,1950,#2b2c21,#4d575a,0.23256065857885616,0.21479636048526862
+Africa,Lyrical Abstraction,1995,#80a559,#c4a853,0.2701304628960481,0.17321516868890494
+Africa,Lyrical Abstraction,1985,#c4a853,#72431f,0.2988412278918479,0.25492986379345395
+Africa,Art Informel,1965,#472e1e,#2e2216,0.24153028249765454,0.21776295215261127
+Africa,Magic Realism,2000,#84645f,#977a71,0.2554796981674452,0.20146125284465205
+Africa,Pop Art,1970,#338a1a,#304bb5,0.2491997934950955,0.2113577697470315
