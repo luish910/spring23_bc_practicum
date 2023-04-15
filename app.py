@@ -25,6 +25,11 @@ df_movements.columns =['region', 'movement', 'year', 'color1', 'color2', 'prop1'
 df_movements['year_to'] = df_movements['year'].apply(lambda x : x+5)
 df_movements['y'] = df_movements[['year', 'year_to']].values.tolist()
 df_movements = df_movements.drop(['year_to'], axis=1)
+
+df_movements['color1'] = df_movements['color1'].fillna('')
+df_movements['color2'] = df_movements['color2'].fillna('')
+df_movements['prop1'] = df_movements['prop1'].fillna(0.01)
+df_movements['prop2'] = df_movements['prop2'].fillna(0)
 #['Americas', 'Europe', 'MiddleEast', 'AsiaOceania', 'Africa']
 
 @app.route("/movement")
