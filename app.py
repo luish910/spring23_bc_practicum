@@ -6,7 +6,7 @@ import os
 directory = os.getcwd()
 model_output_path = os.path.join(directory, "model-output")
 paintings_csv_name = 'WikiArtFull_LAB2Dcolors.csv'
-movements_csv_name = 'WikiArtFull_Region_Mov_Year_LAB.csv'
+movements_csv_name = 'WikiArtFull_Region_Mov_Year_LAB2D.csv'
 paintings_path = os.path.join(model_output_path, paintings_csv_name)
 movements_path = os.path.join(model_output_path, movements_csv_name)
 
