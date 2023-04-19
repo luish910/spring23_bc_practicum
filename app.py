@@ -20,6 +20,9 @@ df_paintings['color1'] = df_paintings['color1'].fillna('')
 df_paintings['color2'] = df_paintings['color2'].fillna('')
 df_paintings['prop1'] = df_paintings['prop1'].fillna(0.01)
 df_paintings['prop2'] = df_paintings['prop2'].fillna(0)
+df_paintings['colorfulness'] = df_paintings['colorfulness'].round(decimals = 2)
+df_paintings['sentiment'] = df_paintings['sentiment'].round(decimals = 2)
+
 df_movements = pd.read_csv(movements_path)
 df_movements.columns =['region', 'movement', 'year', 'color1', 'color2', 'prop1', 'prop2']
 df_movements['year_to'] = df_movements['year'].apply(lambda x : x+5)
