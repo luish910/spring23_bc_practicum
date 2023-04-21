@@ -2,6 +2,15 @@
 
 This is a repository for the back end of our project, for the front-end please use this link: https://github.com/bwolfram1/Spring2023-BC-Prac3
 
+## Modelling:
+
+- Input: WikiArt5Colors.csv
+- Create folders: images, resized-images, display-images, model-output, saved-models
+- Run import-images.py
+- Run create-models.py
+
+
+## API:
 server: https://spring23-bc-group6.onrender.com
 
 /raw_values
