@@ -1,4 +1,6 @@
-# spring23_bc_practicum
+# Spring 2023 Budget Collector Practicum - Group 6
+
+This is a repository for the back end of our project, for the front-end please use this link: https://github.com/bwolfram1/Spring2023-BC-Prac3
 
 server: https://spring23-bc-group6.onrender.com
 
