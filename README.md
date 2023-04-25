@@ -1,5 +1,7 @@
 # Spring 2023 Budget Collector Practicum - Group 6
 
+To test our painting visualization time series visit: https://spring2023-bc-prac3.vercel.app
+
 This is a repository for the back end of our project, for the front-end please use this link: https://github.com/bwolfram1/Spring2023-BC-Prac3
 
 ## Modelling:
